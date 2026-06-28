@@ -58,3 +58,4 @@ CREATE TABLE forecast (
     run_date        DATE,
     PRIMARY KEY (region, month)
 );
+
