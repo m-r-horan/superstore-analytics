@@ -40,7 +40,7 @@ KPI cards, RFM segment breakdown, customer detail table with recency and lifetim
 Designed to surface at-risk customers before they churn.
 
 ![Sales Overview](images/sales.png)
-![Customer Overview](images/customer_health.png)
+![Customer Overview](images/customers.png)
 
 ## Key Design Decisions
 
