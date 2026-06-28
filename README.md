@@ -39,8 +39,8 @@ sales by category and region, top products.
 KPI cards, RFM segment breakdown, customer detail table with recency and lifetime spend. 
 Designed to surface at-risk customers before they churn.
 
-![Sales Overview](images/sales_overview.png)
-![Customer Health](images/customer_health.png)
+![Sales Overview](images/sales.png)
+![Customer Overview](images/customer_health.png)
 
 ## Key Design Decisions
 
